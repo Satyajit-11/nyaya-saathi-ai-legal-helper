@@ -1,0 +1,26 @@
+[
+  {
+    "id": "case1_bengaluru_deposit",
+    "role": "landlord",
+    "doc_type": "Legal Notice",
+    "details": "Sender: Rohit Sharma, Flat 4B, Green Heights, Indiranagar, Bengaluru. Recipient: Mr. S. Gowda (landlord), 12 5th Cross, HSR Layout, Bengaluru.",
+    "story": "I rented a 2BHK in HSR Layout, Bengaluru from Mr Gowda from 1 June 2023 to 31 May 2025. Rent was Rs 30,000 and I paid a security deposit of Rs 90,000 by bank transfer. I vacated on 31 May 2025 and handed over keys, he did a walkthrough and said all ok. Agreement said deposit will be refunded in 30 days. It's now 4 months, he keeps saying 'next week'. Yesterday he said he will deduct Rs 40,000 for painting and 'damage' but never showed any bill. I have the registered rent agreement, bank transfer proof, WhatsApp chats and photos from move-out day.",
+    "negotiation_turns": ["Mr Gowda, I vacated 4 months ago. Please return my Rs 90,000 deposit.", "You never showed any bill for painting. Normal wear and tear cannot be deducted. Show me the invoice.", "I will send a legal notice if the full amount is not returned in 15 days."]
+  },
+  {
+    "id": "case2_ecommerce_refund_hinglish",
+    "role": "e-commerce customer-care executive",
+    "doc_type": "Consumer Complaint (for Consumer Commission)",
+    "details": "Complainant: Priya Verma, Lucknow, UP. Opposite party: ShopKart Pvt Ltd (e-commerce platform), grievance officer email on website.",
+    "story": "Maine 2 September ko ShopKart app se ek phone order kiya, Rs 24,999 ka, UPI se pay kiya. Phone ka screen damaged aaya. Maine 5 September ko return request daal diya, pickup 9 September ko ho gaya. Ab 2 mahine ho gaye refund nahi aaya. Customer care har baar bolta hai '7 working days me ho jayega'. 3 baar complaint ticket banaya hai. Mere paas order confirmation, UPI payment screenshot, damaged phone ki photos aur video, return pickup message aur ticket numbers hain.",
+    "negotiation_turns": ["Mera refund 2 mahine se pending hai, Rs 24,999 abhi chahiye.", "Aapne pickup confirm kiya tha, ab warehouse ka bahana kyu?", "Agar 7 din me refund nahi aaya to main consumer commission me complaint karungi."]
+  },
+  {
+    "id": "case3_unpaid_salary",
+    "role": "employer",
+    "doc_type": "Demand Letter for Unpaid Wages",
+    "details": "Sender: Anil Kumar, Pune. Recipient: Director, BrightEdge Marketing Pvt Ltd, Baner, Pune.",
+    "story": "I worked as a graphic designer at BrightEdge Marketing in Pune since January 2024. Salary Rs 35,000/month. They haven't paid my July and August 2025 salary, total Rs 70,000. Boss says client payments are stuck. I got an offer letter on email, salary slips till June, and WhatsApp messages from my boss admitting the delay. I resigned on 1 September with 30 days notice and my last day was 30 September. They are also now saying I must pay notice-period recovery of Rs 35,000 though I served the notice. No experience letter given either.",
+    "negotiation_turns": ["Sir, I need my July and August salary of Rs 70,000 this week.", "I served my full notice period, so there is no recovery. Please also give my experience letter.", "If not paid, I will approach the Labour Commissioner."]
+  }
+]
