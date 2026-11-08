@@ -1,5 +1,5 @@
 # Nyaya Saathi – An AI Legal Helper for Everyday Problems in India
-**Problem 2: Build an AI Lawyer** | Prototype: Streamlit app, model-swappable (final runs on `openai/gpt-oss-120b` via Groq free tier; Gemini also supported) | Repo: [ADD GITHUB LINK] | Raw outputs: `raw_outputs/`
+**Problem 2: Build an AI Lawyer** | Prototype: Streamlit app, model-swappable (final runs on `openai/gpt-oss-120b` via Groq free tier; Gemini also supported) | Repo: (https://github.com/Satyajit-11/nyaya-saathi-ai-legal-helper.git) | Raw outputs: `raw_outputs/`
 
 ## 1. Problem Choice & Scoping
 **Why this one.** Everyday legal disputes are low-value and frequent: a Rs 90,000 deposit is too small for a lawyer's fee, so people give up. The value is in structuring the story and explaining options, which needs no private data, so a 3-hour prototype can show real value.
